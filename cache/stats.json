@@ -1,0 +1,42 @@
+{
+  "repos": 6,
+  "contributed": 0,
+  "stars": 0,
+  "followers": 0,
+  "commits": 209,
+  "contributions_1y": 281,
+  "additions": 98323,
+  "deletions": 6011,
+  "per_repo": {
+    "justomsharma/jiragenie": [
+      2,
+      533,
+      32
+    ],
+    "justomsharma/neetcode-submissions": [
+      51,
+      965,
+      0
+    ],
+    "justomsharma/portfolio": [
+      23,
+      10459,
+      546
+    ],
+    "justomsharma/github-resume-assistant": [
+      27,
+      23536,
+      2366
+    ],
+    "justomsharma/orbit": [
+      87,
+      59503,
+      3013
+    ],
+    "justomsharma/voice-ai-agent": [
+      19,
+      3327,
+      54
+    ]
+  }
+}
