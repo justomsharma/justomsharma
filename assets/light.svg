@@ -84,7 +84,7 @@
 <text class="ln" x="454.4" y="39" style="animation-delay:180ms"><tspan class="h">om@sharma</tspan><tspan class="r"> ────────────────────────────────────────────────────</tspan></text>
 <text class="ln" x="454.4" y="57" style="animation-delay:218ms"><tspan class="k">Role</tspan><tspan class="d"> .............. </tspan><tspan class="v">AI Engineer, real-time voice &amp; LLM systems</tspan></text>
 <text class="ln" x="454.4" y="75" style="animation-delay:256ms"><tspan class="k">Host</tspan><tspan class="d"> ..................................... </tspan><tspan class="v">Jobtwine, Bangalore</tspan></text>
-<text class="ln" x="454.4" y="93" style="animation-delay:294ms"><tspan class="k">Uptime</tspan><tspan class="d"> ..................... </tspan><tspan class="v">2 years, 9 months, 8 days in prod</tspan></text>
+<text class="ln" x="454.4" y="93" style="animation-delay:294ms"><tspan class="k">Uptime</tspan><tspan class="d"> ..................... </tspan><tspan class="v">2 years, 9 months, 9 days in prod</tspan></text>
 <text class="ln" x="454.4" y="111" style="animation-delay:332ms"><tspan class="k">Kernel</tspan><tspan class="d"> ............................... </tspan><tspan class="v">Python, TypeScript, C++</tspan></text>
 <text class="ln" x="454.4" y="129" style="animation-delay:370ms"><tspan class="k">IDE</tspan><tspan class="d"> ............................. </tspan><tspan class="v">Claude Code, Cursor, VS Code</tspan></text>
 <text class="ln" x="454.4" y="147" style="animation-delay:408ms"><tspan class="k">Pipeline</tspan><tspan class="d"> ................... </tspan><tspan class="v">mic → VAD → STT → LLM → TTS → you</tspan></text>
@@ -114,9 +114,9 @@
 <text class="ln" x="454.4" y="579" style="animation-delay:1320ms"><tspan class="k">Medium</tspan><tspan class="d"> ..................................... </tspan><tspan class="v">@OmsharmaOfficial</tspan></text>
 <text class="ln" x="454.4" y="597" style="animation-delay:1358ms"></text>
 <text class="ln" x="454.4" y="615" style="animation-delay:1396ms"><tspan class="r">─ </tspan><tspan class="s">GitHub Stats</tspan><tspan class="r"> ───────────────────────────────────────────────</tspan></text>
-<text class="ln" x="454.4" y="633" style="animation-delay:1434ms"><tspan class="k">Repos</tspan><tspan class="d"> ..................... </tspan><tspan class="v">7</tspan><tspan class="d"> | </tspan><tspan class="k">Commits</tspan><tspan class="d"> .................. </tspan><tspan class="v">210</tspan></text>
-<text class="ln" x="454.4" y="651" style="animation-delay:1472ms"><tspan class="k">Contributions.1y</tspan><tspan class="d"> ......................................... </tspan><tspan class="v">284</tspan></text>
-<text class="ln" x="454.4" y="669" style="animation-delay:1510ms"><tspan class="k">Lines of Code on GitHub</tspan><tspan class="d"> ......... </tspan><tspan class="v">93,939</tspan><tspan class="d"> ( </tspan><tspan class="add">99,950++</tspan><tspan class="d">, </tspan><tspan class="del">6,011--</tspan><tspan class="d"> )</tspan></text>
+<text class="ln" x="454.4" y="633" style="animation-delay:1434ms"><tspan class="k">Repos</tspan><tspan class="d"> ..................... </tspan><tspan class="v">7</tspan><tspan class="d"> | </tspan><tspan class="k">Commits</tspan><tspan class="d"> .................. </tspan><tspan class="v">212</tspan></text>
+<text class="ln" x="454.4" y="651" style="animation-delay:1472ms"><tspan class="k">Contributions.1y</tspan><tspan class="d"> ......................................... </tspan><tspan class="v">286</tspan></text>
+<text class="ln" x="454.4" y="669" style="animation-delay:1510ms"><tspan class="k">Lines of Code on GitHub</tspan><tspan class="d"> ........ </tspan><tspan class="v">96,143</tspan><tspan class="d"> ( </tspan><tspan class="add">102,163++</tspan><tspan class="d">, </tspan><tspan class="del">6,020--</tspan><tspan class="d"> )</tspan></text>
 <text class="ln" x="454.4" y="687" style="animation-delay:1548ms"></text>
 <text class="ln" x="454.4" y="705" style="animation-delay:1586ms"><tspan class="h">om@sharma</tspan><tspan class="d">:~$ </tspan></text>
 <g class="ln" style="animation-delay:1586ms"><rect class="cur" x="563.6" y="694" width="8.4" height="15" fill="#d8502b"/></g>
