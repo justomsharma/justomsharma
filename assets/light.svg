@@ -84,7 +84,7 @@
 <text class="ln" x="454.4" y="39" style="animation-delay:180ms"><tspan class="h">om@sharma</tspan><tspan class="r"> ────────────────────────────────────────────────────</tspan></text>
 <text class="ln" x="454.4" y="57" style="animation-delay:218ms"><tspan class="k">Role</tspan><tspan class="d"> .............. </tspan><tspan class="v">AI Engineer, real-time voice &amp; LLM systems</tspan></text>
 <text class="ln" x="454.4" y="75" style="animation-delay:256ms"><tspan class="k">Host</tspan><tspan class="d"> ..................................... </tspan><tspan class="v">Jobtwine, Bangalore</tspan></text>
-<text class="ln" x="454.4" y="93" style="animation-delay:294ms"><tspan class="k">Uptime</tspan><tspan class="d"> .................... </tspan><tspan class="v">2 years, 9 months, 12 days in prod</tspan></text>
+<text class="ln" x="454.4" y="93" style="animation-delay:294ms"><tspan class="k">Uptime</tspan><tspan class="d"> .................... </tspan><tspan class="v">2 years, 9 months, 13 days in prod</tspan></text>
 <text class="ln" x="454.4" y="111" style="animation-delay:332ms"><tspan class="k">Kernel</tspan><tspan class="d"> ............................... </tspan><tspan class="v">Python, TypeScript, C++</tspan></text>
 <text class="ln" x="454.4" y="129" style="animation-delay:370ms"><tspan class="k">IDE</tspan><tspan class="d"> ............................. </tspan><tspan class="v">Claude Code, Cursor, VS Code</tspan></text>
 <text class="ln" x="454.4" y="147" style="animation-delay:408ms"><tspan class="k">Pipeline</tspan><tspan class="d"> ................... </tspan><tspan class="v">mic → VAD → STT → LLM → TTS → you</tspan></text>
